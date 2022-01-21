@@ -3,10 +3,11 @@
 The app is designed to help you find news stories you'll be interested, and I make sure you get accurate reports from credible sources.User can browse news articles and videos through various categories. App will enable user to view news details, images, and video . Development of all functional requirements as proposed for the iOS mobile application.However, unlike many other types of apps, news ones tend to have higher indicators that describe the average time a user spends on an app so I had an idea of giving a good content on the credible sources that I researched from the internet.
 
 
-![IMG_5886](https://user-images.githubusercontent.com/88855727/147195165-ef585eb5-0a05-411d-85e4-0b299bfcbacd.PNG)
-![IMG_5887](https://user-images.githubusercontent.com/88855727/147195167-72d84b15-0f7f-463b-b1de-20aec3710a8d.PNG)
-![IMG_5888](https://user-images.githubusercontent.com/88855727/147195176-d54ee2ca-fe90-4a2e-a0ba-d816b0a0bd1e.PNG)
-![IMG_5889](https://user-images.githubusercontent.com/88855727/147195184-c56b0715-1887-4236-995d-c9a2d9145ae0.PNG)
+<a><img src="https://user-images.githubusercontent.com/88855727/147195165-ef585eb5-0a05-411d-85e4-0b299bfcbacd.PNG" width="230"></a>
+<a><img src="https://user-images.githubusercontent.com/88855727/147195167-72d84b15-0f7f-463b-b1de-20aec3710a8d.PNG" width="230"></a>
+<a><img src="https://user-images.githubusercontent.com/88855727/147195176-d54ee2ca-fe90-4a2e-a0ba-d816b0a0bd1e.PNG" width="230"></a>
+<a><img src="https://user-images.githubusercontent.com/88855727/147195184-c56b0715-1887-4236-995d-c9a2d9145ae0.PNG" width="230"></a>
+
 
 # Implementation
 
