@@ -54,6 +54,6 @@ Swift 5
 # License
 
 ©CopyRight
-Created by Manish raj(MR) on 20/08/21.
+Created by Manish raj(MR)
 
 Udacity iOS Developer Nanodegree Project
